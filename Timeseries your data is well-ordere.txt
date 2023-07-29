@@ -1,0 +1,1 @@
+Timeseries: your data is well-ordered. A timeseries problem would make a 1–d convolution the right choice.
